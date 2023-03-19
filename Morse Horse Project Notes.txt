@@ -1,0 +1,15 @@
+Goals:
+-Add UI for adjusting times
+-Make it pretty
+Day 3: 01 OCT 22
+-Proof of concept, initial UI completed
+-Interval between flashes in one character is a short count, interval between characters is a long count
+-Verified all letters are correct
+-Added numbers
+-App will skip processing spaces and all special characters
+Day 2: 30 SEP 22
+-Verified flashlight operation
+-Built loop to turn flashlight on and off
+-Built xml files in values directory to encode A-Z in morse code (STILL NEED TO DO NUMBERS)
+Day 1: 29 SEP 22
+-Began organizing thoughts, pseudocoding
